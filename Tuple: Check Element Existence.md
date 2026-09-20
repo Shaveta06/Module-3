@@ -1,6 +1,6 @@
 # Tuple in Python: Check Element Existence
-## NAME: MONISHA P
-## REF NO: 25018486
+## NAME: R.SHAVETA
+## REF NO: 25014945
 ## 🎯 Aim
 To write a Python program that checks if the element `'n'` and the element `8` exist within a given tuple.
 
